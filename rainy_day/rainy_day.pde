@@ -19,9 +19,7 @@ background(#8BCDF3);
 noStroke();
 fill(#40804B);
 rect(0, height - 190, width, 300);
-fill(#40804B);
 ellipse(90, height - 150, 300, 250);
-fill(#40804B);
 ellipse(150, height - 150, 400, 250);
 
 // raindrops
